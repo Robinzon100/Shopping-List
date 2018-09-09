@@ -1,2 +1,1 @@
-# Shopping-List
-A simple shopping list
+DOM_practises
